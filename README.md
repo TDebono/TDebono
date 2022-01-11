@@ -11,6 +11,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/timo-debono/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/timo-debono/" height="30" width="40" /></a>
 <a href="https://www.goodreads.com/user/show/133611533-timo-debono" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Goodreads_logo_-_SuperTinyIcons.svg" alt="https://www.goodreads.com/user/show/133611533-timo-debono" height="30" width="40" /></a>
+<a href=" https://angel.co/u/timo-debono-2" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/20_Angellist_logo_logos-512.png" alt="https://angel.co/u/timo-debono-2" height="40" width="40" /></a>
+  
 </p>
 </p>
 
