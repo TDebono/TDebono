@@ -4,7 +4,7 @@
 🎓 Pursuing an **M.Sc. in Data Science** at the University of Amsterdam <br>
 🚧 Currently building an interactive platform to run and visualize multiple Explainable AI (XAI) implementations on medical images <br>
 🌱 Learning about **Graph ML** and **Generative Art** <br>
-💬 Ask me about **NLP, Applied ML, XAI** <br>
+💬 Talk to me about **Start-Ups, Economics, NLP, Applied ML, XAI** <br>
 📫 How to reach me **timo.debono@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
