@@ -2,7 +2,7 @@
 <h3 align="center">A curious mind striving to leave this world a little better using the power of data.</h3>
 
 🎓 Pursuing an **M.Sc. in Data Science** at the University of Amsterdam <br>
-🔬 Currently researching fairness in opinion dissemination and visibility on social graphs and the role of link recommendation algorithms.
+🔬 Currently researching fairness in opinion dissemination and visibility on social graphs and the role of link recommendation algorithms. <br>
 🚧 Most recently built an interactive platform to run and visualize multiple Explainable AI (XAI) implementations on medical images <br>
 🌱 Learning about **Graph ML** and **Generative Art** <br>
 💬 Talk to me about **Start-Ups, Economics, NLP, Applied ML, XAI** <br>
