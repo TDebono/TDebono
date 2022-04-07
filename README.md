@@ -4,7 +4,7 @@
 🎓 Pursuing an **M.Sc. in Data Science** at the University of Amsterdam <br>
 🔬 Currently researching fairness in opinion dissemination and visibility on social graphs and the role of link recommendation algorithms. <br>
 🚧 Most recently built an interactive platform to run and visualize multiple Explainable AI (XAI) implementations on medical images <br>
-🌱 Learning about **Graph ML** and **Generative Art** <br>
+🌱 Learning about **Solidity** and **Generative Art** <br>
 💬 Talk to me about **Start-Ups, Economics, NLP, Applied ML, XAI** <br>
 📫 How to reach me **timo.debono@gmail.com**
 
