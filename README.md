@@ -5,7 +5,7 @@
 🎓 Completed an **M.Sc. in Data Science** at the University of Amsterdam <br>
 🔬 Conducted research on the impact of link recommendation algorithms on visibility in dynamic networks at the Civic AI Lab in Amsterdam <br>
 🚧 Built an interactive platform to run and visualize multiple Explainable AI (XAI) implementations on medical images <br>
-🌱 Studying **Causal Inference** and **AI Safety** <br>
+🌱 Reading about **Deep Ecology** and **AI Safety** <br>
 💬 Talk to me about **Start-Ups, NLP, Applied ML, Dynamic Networks, Link Recommendation** <br>
 📫 How to reach me: **timo.debono@gmail.com**
 
