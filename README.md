@@ -1,12 +1,12 @@
 <h2 align="center">Hi 👋, I'm Timo</h2>
 <h3 align="center">A curious mind striving to leave this world a little better using the power of data.</h3>
 
-📊 Currently working in Data Science at Wise <br>
+📊 Most recently worked as Senior Data Scientist at Wise <br>
 🎓 Completed an **M.Sc. in Data Science** at the University of Amsterdam <br>
-🔬 Conducted research on the impact of link recommendation algorithms on visibility in dynamic networks at the Civic AI Lab in Amsterdam <br>
+🔬 Conducted research on the impact of link recommendation algorithms on visibility in dynamic networks at the Civic AI Lab in Amsterdam and published this as a paper <br>
 🚧 Built an interactive platform to run and visualize multiple Explainable AI (XAI) implementations on medical images <br>
-🌱 Reading about **Deep Ecology** and **AI Safety** <br>
-💬 Talk to me about **Start-Ups, NLP, Applied ML, Dynamic Networks, Link Recommendation** <br>
+🌱 Reading about **Deep Ecology**, **Art History** <br>
+💬 Talk to me about **Buddhism, NLP, Applied ML, Dynamic Networks, Link Recommendation** <br>
 📫 How to reach me: **timo.debono@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
