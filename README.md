@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Timo</h2>
+<h2 align="center">Hi, I'm Timo👋</h2>
 <h3 align="center">A curious mind striving to leave this world a little better.</h3>
 
 📊 Most recently worked as Senior Data Scientist at Wise <br>
